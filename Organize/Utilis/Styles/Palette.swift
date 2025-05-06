@@ -11,6 +11,7 @@ enum Palette: String {
     case label
     case background
     case aquamarine
+    case lavender
     case mauve
     case error
     case sucess
