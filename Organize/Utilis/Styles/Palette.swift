@@ -15,6 +15,8 @@ enum Palette: String {
     case mauve
     case error
     case sucess
+    case reBlack
+    case reWhite
     
     var render: Color {
         Color(self.rawValue)
