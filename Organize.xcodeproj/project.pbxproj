@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		331B7FA02DDE2BC20029A56A /* reBagde.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331B7F9F2DDE2BC20029A56A /* reBagde.swift */; };
 		3350E00B2DC7947C0028C528 /* OrganizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3350E00A2DC7947C0028C528 /* OrganizeApp.swift */; };
 		3350E00D2DC7947D0028C528 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3350E00C2DC7947D0028C528 /* ContentView.swift */; };
 		3350E00F2DC7947D0028C528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3350E00E2DC7947D0028C528 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		331B7F9F2DDE2BC20029A56A /* reBagde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reBagde.swift; sourceTree = "<group>"; };
 		3350E0072DC7947C0028C528 /* Organize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Organize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3350E00A2DC7947C0028C528 /* OrganizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrganizeApp.swift; sourceTree = "<group>"; };
 		3350E00C2DC7947D0028C528 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -160,6 +162,7 @@
 		3350E0222DC79D5D0028C528 /* Modifiers */ = {
 			isa = PBXGroup;
 			children = (
+				331B7F9F2DDE2BC20029A56A /* reBagde.swift */,
 			);
 			path = Modifiers;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				3350E0242DC79DC20028C528 /* Palette.swift in Sources */,
 				3350E00D2DC7947D0028C528 /* ContentView.swift in Sources */,
 				3350E00B2DC7947C0028C528 /* OrganizeApp.swift in Sources */,
+				331B7FA02DDE2BC20029A56A /* reBagde.swift in Sources */,
 				3350E0292DCBA63D0028C528 /* BoxCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -9,10 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Box Name")
+        BoxCardView(boxName: "Box", numberOfTerms: 10, theme: .mauve)
+            .reBagde("10")
     }
 }
-    
+
     #Preview {
         ContentView()
     }
